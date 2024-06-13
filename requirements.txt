@@ -1,4 +1,4 @@
--i https://mirrors.aliyun.com/pypi
+-i  https://pypi.tuna.tsinghua.edu.cn/simple
 
 torch
 torchsde
