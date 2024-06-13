@@ -1,3 +1,5 @@
+-i https://mirrors.aliyun.com/pypi
+
 torch
 torchsde
 torchvision
